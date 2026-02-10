@@ -12,7 +12,7 @@ public class Calculator extends JFrame implements ActionListener {
     String op = "";
 
     public Calculator() {
-        setTitle("Calculator 😎");
+        setTitle("Calculator");
         setSize(350, 500);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         setLocationRelativeTo(null);
